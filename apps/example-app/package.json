@@ -60,7 +60,7 @@
     "react-native-worklets": "0.8.3"
   },
   "devDependencies": {
-    "@babel/core": "^7.29.0",
+    "@babel/core": "^8.0.0",
     "@types/jest": "^29.5.12",
     "@types/prettier": "^2.4.4",
     "@types/react": "~19.2.14",
